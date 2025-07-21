@@ -13,7 +13,7 @@ It reads temperature using a sensor (like DHT11 or LM35) and displays the values
 | `wokwi-project.txt` | Project metadata (used by Wokwi editor) |
 
 ## 🔗 Wokwi Project Link
-👉 [Open in Wokwi Simulator](https://wokwi.com/projects/your-project-id)
+👉 [Open in Wokwi Simulator](https://wokwi.com/projects/430185493924577281)
 
 ## ⚙️ Tech Stack
 - Arduino (C++)
